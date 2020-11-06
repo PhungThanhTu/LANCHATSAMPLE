@@ -1,0 +1,26 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=D:\TAI_LIEU_THUC_HANH\LTTQ\Chat_project\Chat_Project\Client-Server Optional\bin\Debug\netcoreapp3.1\~Client-Server Optional.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=D:\TAI_LIEU_THUC_HANH\LTTQ\Chat_project\Chat_Project\Client-Server Optional\bin\Debug\netcoreapp3.1\~Client-Server Optional_LAYOUT.INF
+.Set RptFileName=D:\TAI_LIEU_THUC_HANH\LTTQ\Chat_project\Chat_Project\Client-Server Optional\bin\Debug\netcoreapp3.1\~Client-Server Optional.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+"D:\TAI_LIEU_THUC_HANH\LTTQ\Chat_project\Chat_Project\Client-Server Optional\bin\Debug\netcoreapp3.1\Client-Server Optional.exe"
+"D:\TAI_LIEU_THUC_HANH\LTTQ\Chat_project\Chat_Project\Client-Server Optional\bin\Debug\netcoreapp3.1\Client-Server Optional.deps.json"
+"D:\TAI_LIEU_THUC_HANH\LTTQ\Chat_project\Chat_Project\Client-Server Optional\bin\Debug\netcoreapp3.1\Client-Server Optional.dll"
+"D:\TAI_LIEU_THUC_HANH\LTTQ\Chat_project\Chat_Project\Client-Server Optional\bin\Debug\netcoreapp3.1\Client-Server Optional.pdb"
+"D:\TAI_LIEU_THUC_HANH\LTTQ\Chat_project\Chat_Project\Client-Server Optional\bin\Debug\netcoreapp3.1\Client-Server Optional.runtimeconfig.dev.json"
+"D:\TAI_LIEU_THUC_HANH\LTTQ\Chat_project\Chat_Project\Client-Server Optional\bin\Debug\netcoreapp3.1\Client-Server Optional.runtimeconfig.json"
